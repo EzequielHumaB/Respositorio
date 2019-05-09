@@ -7,6 +7,8 @@ namespace Prueba13
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Escribe algo");
+            Console.ReadKey();
         }
     }
 }
