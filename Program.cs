@@ -8,6 +8,7 @@ namespace Prueba13
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Escribe algo");
+            Console.WriteLine("Hola que tal");
             Console.ReadKey();
         }
     }
